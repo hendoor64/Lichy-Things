@@ -1,0 +1,7 @@
+package hendoor64.lichythings;
+
+@Mod(modid = )
+public class LichyThings 
+{
+
+}

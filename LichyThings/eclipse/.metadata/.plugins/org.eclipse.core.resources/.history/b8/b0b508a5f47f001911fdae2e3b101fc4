@@ -1,0 +1,9 @@
+package hendoor64.lichythings;
+
+import hendoor64.lichythings.util.Reference;
+
+@Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
+public class LichyThings 
+{
+
+}

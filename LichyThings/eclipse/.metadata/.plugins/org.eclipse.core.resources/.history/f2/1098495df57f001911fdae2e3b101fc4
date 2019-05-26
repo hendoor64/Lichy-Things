@@ -1,0 +1,14 @@
+package hendoor64.lichythings;
+
+import hendoor64.lichythings.util.Reference;
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod.Instance;
+
+@Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
+public class LichyThings 
+{
+	@Instance
+	public static LichyThings instance;
+	
+	@SidedProxy()
+}
